@@ -7,3 +7,6 @@
       time:1500,  //时间    
       offset:[800,0]  
       })
+  
+ #
+ css在mobile/need，解决一直在左上角弹出问题
